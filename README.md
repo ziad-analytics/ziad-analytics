@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**ziad-analytics/ziad-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ziad, a Data Analyst passionate about turning data into insights and decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+
+### 🔹 SQL Project
+SQL data analysis with queries for insights and data exploration.
+
+### 🔹 Power BI Project
+Power BI dashboard for country-wise data analysis and insights.
+
+### 🔹 Excel Project (Sales Data)
+Sales data analysis using Excel with dashboards and insights.
+
+---
+
+## 🛠 Tools
+- SQL
+- Excel
+- Power BI
+
+---
+
+## 📌 Goal
+Building real-world data analysis projects to improve decision-making through data.
