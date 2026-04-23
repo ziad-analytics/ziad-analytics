@@ -8,9 +8,9 @@
 
 | Project | Tools | Description |
 |--------|-------|-------------|
-| [COVID-19 Global Analysis](https://github.com/ziadhatem-analytics/COVID19-Global-Analysis-PowerBI) | Power BI | Interactive dashboard analyzing global COVID-19 stats across WHO regions and 180+ countries |
-| [AI Job Market Analysis](https://github.com/ziadhatem-analytics/ai-job-market-sql) | SQL | Exploring AI job market trends, top-paying roles, and country-level demand |
-| [Sales Performance Analysis](https://github.com/ziadhatem-analytics/excel-sales-analysis) | Excel | Sales dashboard with KPIs, trends, and regional breakdowns |
+| [COVID-19 Global Analysis](https://github.com/ziad-analytics/COVID19-Global-Analysis-PowerBI) | Power BI | Interactive dashboard analyzing global COVID-19 stats across WHO regions and 180+ countries |
+| [AI Job Market Analysis](https://github.com/ziad-analytics/ai-job-market-sql) | SQL | Exploring AI job market trends, top-paying roles, and country-level demand |
+| [Sales Performance Analysis](https://github.com/ziad-analytics/excel-sales-analysis) | Excel | Sales dashboard with KPIs, trends, and regional breakdowns |
 
 ---
 
